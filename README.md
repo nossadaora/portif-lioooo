@@ -11,7 +11,7 @@ Este é meu portfólio pessoal, feito como atividade de aula. Nele apresento um 
 
 ## Link do site
 Depois de publicar no GitHub Pages, coloque o endereço aqui:
-`https://nossadaora.github.io/portifólioooo/`
+`https://nossadaora.github.io/portif-lioooo/`
 
 ## Como o projeto funciona
 A página está organizada em seções: Perfil, Habilidades, Projetos e Contato. O menu no topo leva diretamente a cada parte. O Bootstrap ajuda a organizar o conteúdo e faz com que o menu e as colunas funcionem em telas menores.
